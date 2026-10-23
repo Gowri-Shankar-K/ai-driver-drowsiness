@@ -1,0 +1,7 @@
+Timestamp,Event_Type,Duration_Sec,Duration_Frames,EAR,EAR_Threshold,MAR,MAR_Threshold,PERCLOS_Pct,Head_Pitch_Deg,Head_Yaw_Deg,Notes
+2026-10-04 19:33:05,DROWSY - EYES CLOSED,4.18,114,0.137,0.239,0.220,0.500,100.0,0.0,0.0,Simulated fatigue
+2026-10-04 19:34:36,DROWSY - EYES CLOSED,4.18,113,0.137,0.239,0.220,0.500,100.0,0.0,0.0,Simulated fatigue
+2026-10-04 19:37:04,DROWSY - EYES CLOSED,1.87,75,0.222,0.214,0.064,0.500,85.6,-179.5,5.1,Extended eye closure detected
+2026-10-04 19:37:09,YAWN DETECTED,0.46,38,0.325,0.214,0.392,0.500,0.0,177.9,15.8,Frequent or continuous yawn
+2026-10-04 19:52:34,YAWN DETECTED,1.36,65,0.317,0.223,0.491,0.500,25.6,177.3,-11.7,Frequent or continuous yawn
+2026-10-04 19:52:48,DROWSY - EYES CLOSED,0.64,38,0.242,0.223,0.056,0.500,44.4,-160.8,11.0,Extended eye closure detected
